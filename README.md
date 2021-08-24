@@ -1,12 +1,14 @@
 <div align="center">
 
-### dotfiles i3 config
+### dotfiles
 
 ![Desktop](images/desktop.png)
+
+![Desktop](images/terminal.png)
 
 </div>
 
 ------
-### Config i3 desktop environment 
+### i3wm 
 
-This repository was made to save the configuration of my desktop environment using i3, so I don't have to write everything again.
+This repository was made to save the configuration of my i3wm, so I don't have to write everything again.
